@@ -1,0 +1,131 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 100vh;
+    width: 100vw;
+    border: 2px solid rebeccapurple;
+}
+
+.box{
+    border: 2px solid red;
+    width: 200px;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 100px;
+    outline: 5px double green;
+    outline-offset: 2px;
+    background-image: url('1.png');
+    background-size: 100% 100%;
+}
+
+.box2{
+    border: 2px solid red;
+    width: 200px;
+    height: 200px;
+    margin-top: -200px;
+    margin-left: 400px;
+    outline: 5px double green;
+    outline-offset: 2px;
+    background-image: url('2.jpg');
+    background-size: 100% 100%;
+}
+
+.box3{
+    border: 2px solid red;
+    width: 200px;
+    height: 200px;
+    margin-top: 100px;
+    margin-left: 100px;
+    outline: 5px double green;
+    outline-offset: 2px;
+    background-image: url('3.jpg');
+    background-size: 100% 100%;
+}
+
+.box4{
+    border: 2px solid red;
+    width: 200px;
+    height: 200px;
+    margin-top: -200px;
+    margin-left: 400px;
+    outline: 5px double green;
+    outline-offset: 2px;
+    background-image: url('4.jpg');
+    background-size: 100% 100%;
+}
+
+.box5{
+    border: 2px solid red;
+    width: 200px;
+    height: 200px;
+    margin-top: -400px;
+    margin-left: 600px;
+    outline: 5px double green;
+    outline-offset: 2px;
+    background-image: url('5.jpg');
+    background-size: 100% 100%;
+}
+
+.box6{
+    border: 2px solid red;
+    width: 200px;
+    height: 200px;
+    margin-top: -400px;
+    margin-left: 600px;
+    outline: 5px double green;
+    outline-offset: 2px;
+    background-image: url('5.jpg');
+    background-size: 100% 100%;
+}
+
+.box7{
+    border: 2px solid red;
+    width: 200px;
+    height: 200px;
+    margin-top: -600px;
+    margin-left: 800px;
+    outline: 5px double green;
+    outline-offset: 2px;
+    background-image: url('5.jpg');
+    background-size: 100% 100%;
+}
+
+.box8{
+    border: 2px solid red;
+    width: 200px;
+    height: 200px;
+    margin-top: -600px;
+    margin-left: 800px;
+    outline: 5px double green;
+    outline-offset: 2px;
+    background-image: url('5.jpg');
+    background-size: 100% 100%;
+}
+
+.box9{
+    border: 2px solid red;
+    width: 200px;
+    height: 200px;
+    margin-top: -800px;
+    margin-left: 1000px;
+    outline: 5px double green;
+    outline-offset: 2px;
+    background-image: url('5.jpg');
+    background-size: 100% 100%;
+}
+
+.box10{
+    border: 2px solid red;
+    width: 200px;
+    height: 200px;
+    margin-top: -800px;
+    margin-left: 1000px;
+    outline: 5px double green;
+    outline-offset: 2px;
+    background-image: url('5.jpg');
+    background-size: 100% 100%;
+}
