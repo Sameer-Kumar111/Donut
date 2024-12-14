@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+}
+
+.img1{
+         /* backgrround-color; blue; */
+         height: 500%;
+         background-image: url('img1.jpg');
+         background-size: 100%;
+   }

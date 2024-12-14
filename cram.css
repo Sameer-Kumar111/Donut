@@ -1,0 +1,58 @@
+ h1{
+    text-align: center;
+    background-color: rgb(46, 122, 221);
+}
+
+.img1{
+    /* background-color: blue; */
+    height: 500px;     
+    background-image: url('1.png');
+    background-repeat: no-repeat;
+    /* background-position: right; */
+    background-size: 100% 100%;
+    background-attachment: fixed;
+} 
+.img2{
+    height: 500px;
+    background-image: url('2.jpg');  
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.img3{
+    height: 500px; 
+    background-image: url('3.jpg');
+    background-repeat: no-repeat;
+     /* background-position: right; */
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.img4{
+    height: 500px;
+    background-image: url('4.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.img5{
+    height: 500px;
+    background-image: url('5.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.img6{
+    height: 500px;
+    background-image: url('6.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+
+.blank{
+    height: 500px;
+    background-image: url('1.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
