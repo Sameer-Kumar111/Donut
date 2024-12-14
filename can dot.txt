@@ -1,0 +1,44 @@
+<html>
+<head>
+<title></title>
+</head>
+<body>
+
+<table border="1" height="500" width="1000" align="center">
+<tr>
+<th>kodvidya</th>
+<th colspan="2" width="100"></th>
+<th>home</th>
+<th>about</th>
+<th>contat</th>
+<th>help</th>
+</tr>
+<tr>
+<th colspan="10"><marquee><img src="IMG20241001101613.jpg" height="200px" width"200"></marquee></th>
+</tr>
+<tr>
+<th colspan="2">img-1<img src="IMG20241003114730.jpg" height="200px" width"200"></th>
+<th colspan="2">img-2<img src="3.jpg" height="200px" width"200"></th>
+<th colspan="2">img-3</th>
+</tr>
+<tr>
+<th colspan="2">img-4</th>
+<th colspan="2">img-5</th>
+<th colspan="2">img-6</th>
+</tr>23:41 17-11-202423:44 17-11-2024
+<tr>
+<th colspan="6">view more</th>
+</tr>
+<tr>
+<th colspan="10" height="50"></th>
+</tr>
+<tr>
+<th colspan="2" rowspan="3">social</th>
+<th colspan="2" rowspan="3">social</th>
+<th colspan="2" rowspan="3">social</th>
+
+</tr>
+</table>
+
+</body>
+</html>
